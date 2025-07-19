@@ -1,5 +1,19 @@
 # -REAL-TIME-CHAT-SERVER
 
+"COMPANY": CODTECH IT SOLUTIONS
+
+"NAME": SAI SHANKAR REDDY CHITTAMURU
+
+"INTERN ID": CT08DN1665
+
+"DOMAIN" BACK END DEVELOPMENT
+
+"DURATION": 8 WEEKS
+
+"MENTOR": NEELA SANTOSH
+
+## 
+
 #OUTPUT:
 
 <img width="1917" height="1008" alt="Image" src="https://github.com/user-attachments/assets/8206a871-d601-4822-a393-ee24c337cf11" />
